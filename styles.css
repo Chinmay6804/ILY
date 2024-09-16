@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fce4ec;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #f06292;
+    color: white;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+main {
+    padding: 20px;
+}
+
+#message {
+    margin: 20px auto;
+    max-width: 600px;
+    line-height: 1.6;
+}
+
+#days-of-love {
+    margin-top: 40px;
+    background-color: #ffc107;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
